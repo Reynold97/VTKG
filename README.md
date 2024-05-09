@@ -11,8 +11,8 @@ This demo showcases a Gradio application that converts spoken audio into a visua
 ### Step 1: Clone the Repository
 Clone this repository to your local machine using:
 ```bash
-git clone [URL_OF_YOUR_REPO]
-cd [REPO_NAME]
+git clone https://github.com/Reynold97/VTKG.git
+cd VTKG
 ```
 
 ### Step 2: Create a Conda Environment
